@@ -55,6 +55,8 @@ STEPS TO BE FOLLOWED TO TRAIN THE MODEL:
 2.Select get started
 ![oic-2](https://github.com/user-attachments/assets/5c34d813-eed1-4b91-b4e5-d759b812edc8)
 
+
+
 3.Select image project
 ![pic-3](https://github.com/user-attachments/assets/c232140d-5840-4d6f-8c6d-a3441ee5ea1e)
 
