@@ -18,7 +18,7 @@ Confidence scores for each prediction.
 
 Easy-to-adapt code for custom models and datasets.
 
-4. REQUIREMENTS:
+4.REQUIREMENTS:
 PYTHON 3.9(interpreter)
 
 The required dependencies and libraries:(THIS HAS TO BE DONE IN THE TERMINAL OF PYCHARM)
@@ -33,7 +33,7 @@ set CUDA_VISIBLE_DEVICES=-1
 3.Install OpenCV with  GUI suport
 pip install opencv-python==4.5.5.64
 
-6. FILE STRUCTURE:
+5. FILE STRUCTURE:
    
 Purpose of key files:
 
@@ -43,7 +43,7 @@ labels.txt: Text file with class names for the model.
 
 face_recognition.py: Main Python script for running the program.
 
-8. HOW IT WORKS:
+6. HOW IT WORKS:
    
 Workflow:
 
@@ -56,7 +56,7 @@ Each frame is resized and normalized before being passed to the model for predic
 The predicted class and confidence score are displayed on the video feed.
 
 
-10. CUSTOMIZATION:
+7. CUSTOMIZATION:
     
 How users can adapt the code:
 
@@ -66,7 +66,7 @@ Update labels.txt with corresponding class names.
 
 Change the video source (e.g., use a video file instead of a camera).
 
-12. TROUBLESHOOTING:
+8. TROUBLESHOOTING:
    
 Common issues and their solutions:
 
@@ -76,7 +76,7 @@ Model/Labels Not Found: Verify the paths to keras_model.h5 and labels.txt.
 
 OpenCV Errors: Check if the camera is functioning properly.
 
-STEPS TO BE FOLLOWED TO TRAIN THE MODEL:
+9.STEPS TO BE FOLLOWED TO TRAIN THE MODEL:
 
 1.Search for google teachable machine
 
