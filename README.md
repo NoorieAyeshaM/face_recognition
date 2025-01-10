@@ -58,6 +58,8 @@ STEPS TO BE FOLLOWED TO TRAIN THE MODEL:
 3.Select image project
 ![pic-3](https://github.com/user-attachments/assets/c232140d-5840-4d6f-8c6d-a3441ee5ea1e)
 
+
+
 4.Select standard image model
 ![pic-4](https://github.com/user-attachments/assets/6b1c9f6f-aa0a-47f0-aada-8829c62e3ef1)
 
